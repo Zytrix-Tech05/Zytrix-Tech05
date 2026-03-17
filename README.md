@@ -1,16 +1,25 @@
-## Hi there 👋
+# Richmond Ohene Kwasi
 
-<!--
-**Zytrix-Tech05/Zytrix-Tech05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer focused on building practical and scalable digital solutions.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+I am a IT student with a strong interest in backend development, databases, and API design. I focus on writing clean, efficient code and building systems that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ Tech Focus
+- Backend Development
+- Database Design & Management
+- API Development
+- System Design Fundamentals
+
+## 🚀 What I'm Working On
+- Building real-world backend projects
+- Improving problem-solving and coding skills
+- Exploring scalable system design
+
+## 📈 Goals
+- Develop production-level applications
+- Contribute to meaningful open-source projects
+- Continuously improve as a software developer
+
+## 📫 Contact
+- GitHub: https://github.com/Zytrix-Tech05
