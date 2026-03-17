@@ -6,13 +6,14 @@ Software developer focused on building practical and scalable digital solutions.
 I am an IT student with a strong interest in backend development, databases, and API design. I focus on writing clean, efficient code and building systems that solve real-world problems.
 
 ## ⚙️ Tech Focus
+- Frontend Development
 - Backend Development
 - Database Design & Management
 - API Development
 - System Design Fundamentals
 
 ## 🚀 What I'm Working On
-- Building real-world backend projects
+- Building real-world frontend and backend projects
 - Improving problem-solving and coding skills
 - Exploring scalable system design
 
